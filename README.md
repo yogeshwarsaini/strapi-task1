@@ -26,6 +26,14 @@ cd strapi-task1
     npm run develop
 Open your browser at: http://localhost:1337/admin
 
+---
+
+## 📎 Submission Links
+
+- 🔗 Pull Request: [View PR #1](https://github.com/yogeshwarsaini/strapi-task1/pull/1)
+- 📹 Video Walkthrough: [Watch on YouTube](https://youtu.be/r3s2PLkcu90)
+
+
 Name: Yogesh Saini
 Track: AWS Cloud & DevOps Internship
 Task: Strapi Setup & Content Management
