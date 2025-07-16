@@ -1,3 +1,6 @@
+> ✅ Updated from yogesh branch for PR visibility.
+
+
 # 🚀 Strapi Task 1 – Internship Assignment
 
 This project was created as part of the internship task to explore Strapi CMS. It includes setting up a local Strapi app, creating a content type, and adding sample data.
